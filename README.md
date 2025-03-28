@@ -64,7 +64,8 @@
 
 ### **Virtual Box:**
 
-![](./images/VB.png)
+<img width="1335" alt="Screenshot 2025-03-27 at 7 50 18 PM" src="https://github.com/user-attachments/assets/d27dd407-cc5b-481c-9f52-cd640bf8535e" />
+
 
 ---
 
@@ -76,7 +77,8 @@
 
 ### **Autopsy**
 
-![](./images/autopsy.png)
+<img width="1358" alt="Screenshot 2025-03-27 at 7 51 33 PM" src="https://github.com/user-attachments/assets/1f66c110-9a2c-46d4-8f15-281bef1ee1c6" />
+
 
 ---
 
