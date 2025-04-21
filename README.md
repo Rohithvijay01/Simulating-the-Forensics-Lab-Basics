@@ -1,4 +1,6 @@
-# Simulating-the-Forensics-Lab-Basics
+# Simulating the Forensics Lab Basics
+# NAME : ROHITH V
+# REG NO : 212223040174
 
 ## Aim :
    To install VirtualBox and set up a virtual machine(Kali Linux), install Autopsy and Sleuth Kit, and use them for forensic investigation by analyzing disk storage and file system.
@@ -64,36 +66,35 @@
 
 ### **Virtual Box:**
 
-<img width="1335" alt="Screenshot 2025-03-27 at 7 50 18 PM" src="https://github.com/user-attachments/assets/d27dd407-cc5b-481c-9f52-cd640bf8535e" />
-
+![](./images/VB.png)
 
 ---
 
 ### **Virtual Machine (Kali Linux)**
 
-![image](https://github.com/user-attachments/assets/43ffd507-dcaa-40cc-b955-8195b9996260)
+![](./images/Kali.png)
+
+![](./images/kali1.png)
 
 ---
 
 ### **Autopsy**
 
-<img width="1358" alt="Screenshot 2025-03-27 at 7 51 33 PM" src="https://github.com/user-attachments/assets/1f66c110-9a2c-46d4-8f15-281bef1ee1c6" />
-
+![](./images/autopsy.png)
 
 ---
 
 ### **Sleuth Kit**
 
-![image](https://github.com/user-attachments/assets/593521c8-d9f5-449b-b755-ed47edff2e56)
+![](./images/s1.png)
 
-![image](https://github.com/user-attachments/assets/705ce368-075a-40c3-91ae-b4e6ae87ad9a)
+![](./images/s2.png)
 
 ---
 
 ### **Creation of Virtual Hard Disk**
 
-![image](https://github.com/user-attachments/assets/b266330a-0e90-4917-9424-e784ff7ee937)
-
+![](./images/disk.png)
 
 ---
 
