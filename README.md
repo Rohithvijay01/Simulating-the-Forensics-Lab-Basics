@@ -76,14 +76,13 @@ Reg No: 212223040174
  
 **KALI LINUX:**
 
-![desktop](https://github.com/user-attachments/assets/cd1adf4e-3cf9-457c-9bc6-bd892704ffa7)
+![image](https://github.com/user-attachments/assets/206db75f-64fb-4133-b1d6-c211826a63bb)
+
 
 
 
 **SLEUTH-KIT:**
 
-
-![Screenshot 2025-04-10 203954](https://github.com/user-attachments/assets/ad3b60f8-8ad6-4c6c-9cae-4de229dfaf84)
 
 
 ## RESULT:
